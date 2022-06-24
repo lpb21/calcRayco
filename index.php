@@ -8,7 +8,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
   <title>Calculadora</title>
   <link rel="stylesheet" href="./css/normalize.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
@@ -51,6 +50,17 @@
     </form>
   </div>
   </div>
+
+
+<?php 
+/*
+$numero1 =$_POST["numero1"];
+$numero2 =$_POST["numero2"];
+$opcion =$_POST["opcion"];
+$fecha = date("Y-m-d H:i:s");
+$resultado =$_POST["resultado"];
+*/
+?>
 
   <script src="./js/index.js"></script>
 </body>
