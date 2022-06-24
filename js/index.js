@@ -21,13 +21,9 @@ const enviar = (e) => {
     xhr.send(params);
 
 
-
-
-    //let url = "./Calculadora/procesar.php";
 }
 
 
-//var clickArea = document.getElementById("enviar_bll");
 //clickArea.onclick = function(){}
 
 function enviar_form() {
