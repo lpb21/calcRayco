@@ -52,8 +52,8 @@
   </div>
 
 
-<?php 
-/*
+
+<!-- /*
 $numero1 =$_POST["numero1"];
 $numero2 =$_POST["numero2"];
 $opcion =$_POST["opcion"];
@@ -62,8 +62,7 @@ $resultado =$_POST["resultado"];
 
 $ConsultaSQL= "SELECT FROM bdcalcRayco.OPERACIONES WHERE FECHA IS NOT NULL ORDER BY ID = '".$cedula."' ORDER BY PKEST_NCODIGO ASC limit 10;";
 
-*/
-?>
+*/ -->
 
   <script src="./js/index.js"></script>
 </body>

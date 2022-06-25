@@ -79,6 +79,7 @@ function enviar_form() {
                 opcion: opcion
             },
             success: function(response) {
+                console.log(response);
                 $('#resultado').html(response);
                 console.log(response);
                 swal('success', 'Datos calculados correctamente', 'success');
